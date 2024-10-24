@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-225-graph-theory-and-additive-combinatorics-fall-2023/vcsxCFSLyP8_transcript.pdf
+file: /ol-ocw-studio-app/courses/18-225-graph-theory-and-additive-combinatorics-fall-2023/vcsxCFSLyP8_transcript.pdf
 file_size: 73679
 file_type: application/pdf
 learning_resource_types: []
