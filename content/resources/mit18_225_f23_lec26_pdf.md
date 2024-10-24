@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/18-225-graph-theory-and-additive-combinatorics-fall-2023/mit18_225_f23_lec26.pdf
+file: /ol-ocw-studio-app/courses/18-225-graph-theory-and-additive-combinatorics-fall-2023/mit18_225_f23_lec26.pdf
 file_size: 532162
 file_type: application/pdf
 image_metadata:
