@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-225-graph-theory-and-additive-combinatorics-fall-2023/4LYom0ekars_captions.vtt
+file: courses/graph-theory-and-additive-combinatorics/4LYom0ekars_captions.vtt
 file_size: 76298
 file_type: application/x-subrip
 learning_resource_types: []

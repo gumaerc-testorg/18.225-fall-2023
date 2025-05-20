@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-225-graph-theory-and-additive-combinatorics-fall-2023/BatYGepHsnc_transcript.pdf
+file: courses/graph-theory-and-additive-combinatorics/BatYGepHsnc_transcript.pdf
 file_size: 70813
 file_type: application/pdf
 learning_resource_types: []
