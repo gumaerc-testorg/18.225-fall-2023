@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-225-graph-theory-and-additive-combinatorics-fall-2023/Rlvwagd2BmY_transcript.pdf
+file: courses/graph-theory-and-additive-combinatorics/Rlvwagd2BmY_transcript.pdf
 file_size: 71120
 file_type: application/pdf
 learning_resource_types: []

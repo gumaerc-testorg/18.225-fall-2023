@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-225-graph-theory-and-additive-combinatorics-fall-2023/mit18_225_f23_psets.pdf
+file: courses/graph-theory-and-additive-combinatorics/mit18_225_f23_psets.pdf
 file_size: 576326
 file_type: application/pdf
 image_metadata:
