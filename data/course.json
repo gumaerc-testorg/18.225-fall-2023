@@ -43,11 +43,12 @@
   },
   "learning_resource_types": [
     "Instructor Insights",
-    "Online Textbook",
+    "Open Textbooks",
     "Lecture Videos",
     "Lecture Notes",
     "Problem Sets"
   ],
   "site_uid": "e53456f0-000b-4fe8-ba67-c46309a193cd",
-  "site_short_id": "18.225-fall-2023"
+  "site_short_id": "18.225-fall-2023",
+  "site_url_path": "courses/18-225-graph-theory-and-additive-combinatorics-fall-2023"
 }
