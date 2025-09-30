@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Prerequisites
 
-(([*18.701 Algebra I*](https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/) or [*18.703 Modern Algebra*](https://ocw.mit.edu/courses/18-703-modern-algebra-spring-2013/)) and ([*18.100A Real Analysis*](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/), [*18.100B Real Analysis*](https://ocw.mit.edu/courses/18-100b-analysis-i-fall-2010/), *18.100P Real Analysis*, or *18.100Q Real Analysis*)) or permission of instructor
+(({{% resource_link "33041b6e-8169-4ebe-a758-45b7f9d8efb6" "*18.701 Algebra I*" %}} or {{% resource_link "c57d5ab1-abb7-42c5-981e-1cf939d00995" "*18.703 Modern Algebra*" %}}) and ({{% resource_link "f727a5f5-82b9-4933-8513-eee23828f491" "*18.100A Real Analysis*" %}}, {{% resource_link "8901ff5c-88c1-41eb-9202-9226b3b03610" "*18.100B Real Analysis*" %}}, *18.100P Real Analysis*, or *18.100Q Real Analysis*)) or permission of instructor
 
 ## Course Description
 
