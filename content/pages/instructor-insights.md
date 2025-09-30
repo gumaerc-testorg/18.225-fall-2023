@@ -22,7 +22,7 @@ I am very happy to see that several of the students who took the first iteration
 
 I built on a popular practice of asking students to “scribe” notes for individual lectures. Making good notes takes a lot of work and requires feedback from the lecturer.
 
-To streamline this process, I created a single document on [Overleaf](http://overleaf.com), an online collaborative LaTeX editor. I asked students to sign up to cover lectures. The document was carefully set up on Overleaf so that students could add their lectures as new sections into the larger document. Other students in the class could then edit and correct these notes as the semester goes on.
+To streamline this process, I created a single document on {{% resource_link "d5b879f2-34d5-443d-b61d-0cb0606a577a" "Overleaf" %}}, an online collaborative LaTeX editor. I asked students to sign up to cover lectures. The document was carefully set up on Overleaf so that students could add their lectures as new sections into the larger document. Other students in the class could then edit and correct these notes as the semester goes on.
 
 {{< div-with-class "reveal1" >}}
 
@@ -50,7 +50,7 @@ It was also important to set deadlines. The student covering a given lecture was
 
 **Yufei Zhao:** As with the course notes writing assignments, students appreciated the meaningful nature of the assignment, in that they were contributing to a resource that would be useful to others (including themselves). I motivated students to engage with the assignment by telling the class that for most of us, whenever we first encounter a new term or concept, our gut instinct is to type it into Google, and often one of the top results is the Wikipedia entry. This makes Wikipedia an important entry point into knowledge, so it’s important that we do a good job to make it useful.
 
-Writing good Wikipedia entries is challenging. One common problem with student contributions is that the articles end up too technical to be useful to non-specialists. I asked the students to imagine a reader who is a slightly younger version of themselves, before they properly learned the subject. One especially good example of a Wikipedia page created by a student in the class is the one on [Sidorenko’s conjecture](https://en.wikipedia.org/wiki/Sidorenko%27s_conjecture). 
+Writing good Wikipedia entries is challenging. One common problem with student contributions is that the articles end up too technical to be useful to non-specialists. I asked the students to imagine a reader who is a slightly younger version of themselves, before they properly learned the subject. One especially good example of a Wikipedia page created by a student in the class is the one on {{% resource_link "1b78450e-580f-4d07-af79-2f1a104a8559" "Sidorenko’s conjecture" %}}. 
 
 **OCW:** What would you like to share about teaching this class that we haven’t yet addressed?
 
@@ -62,11 +62,11 @@ Writing good Wikipedia entries is challenging. One common problem with student c
 
 ### Prerequisites
 
-(([*18.701 Algebra I*](https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/) or [*18.703 Modern Algebra*](https://ocw.mit.edu/courses/18-703-modern-algebra-spring-2013/)) and ([*18.100A Real Analysis*](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/), [*18.100B Real Analysis*](https://ocw.mit.edu/courses/18-100b-analysis-i-fall-2010/), *18.100P Real Analysis*, or *18.100Q Real Analysis*)) or permission of instructor
+(({{% resource_link "33041b6e-8169-4ebe-a758-45b7f9d8efb6" "*18.701 Algebra I*" %}} or {{% resource_link "c57d5ab1-abb7-42c5-981e-1cf939d00995" "*18.703 Modern Algebra*" %}}) and ({{% resource_link "f727a5f5-82b9-4933-8513-eee23828f491" "*18.100A Real Analysis*" %}}, {{% resource_link "8901ff5c-88c1-41eb-9202-9226b3b03610" "*18.100B Real Analysis*" %}}, *18.100P Real Analysis*, or *18.100Q Real Analysis*)) or permission of instructor
 
 ### Requirements Satisfied
 
-18.225 can be applied toward a doctorate degree in [Pure or Applied Mathematics](http://math.mit.edu/academics/grad/index.php), but is not required.
+18.225 can be applied toward a doctorate degree in {{% resource_link "f5eeb783-174a-4ba9-963c-6f6580a21b29" "Pure or Applied Mathematics" %}}, but is not required.
 
 ### Offered
 
